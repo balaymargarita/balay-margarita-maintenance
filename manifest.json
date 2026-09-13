@@ -1,0 +1,16 @@
+{
+  "name": "BALAY Margarita Maintenance",
+  "short_name": "BALAY Maintenance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#263238",
+  "theme_color": "#168C8C",
+  "icons": [
+    {
+      "src": "icons/BALAY_Margarita_Maintenance.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
