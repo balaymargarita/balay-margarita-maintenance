@@ -7,7 +7,7 @@
   "theme_color": "#168C8C",
   "icons": [
     {
-      "src": "icons/BALAY_Margarita_Maintenance.png",
+      "src": "BALAY_Margarita_Maintenance.png",
       "sizes": "1254x1254",
       "type": "image/png",
       "purpose": "any maskable"
